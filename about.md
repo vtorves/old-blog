@@ -8,8 +8,8 @@ modified: 7-7-2014
 comments: true
 image:
   feature: wall.jpeg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+<!--  credit: Texture Lovers
+  creditlink: http://texturelovers.com -->
 ---
  Curioso e inquieto, ganhou seu primeiro computador aos 9 anos. Aos 14 anos entrou na matrix conhecendo FreeBSD e imergiu na programação escrevendo pequenos jogos para se divertir no mIRC.
 <br />
