@@ -1,15 +1,15 @@
 title:            Vinicius Torves
-description:      Desenvolvedor web.
+description:      Ruby developer fullstack
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://vtorves.github.io
-#url:              http://0.0.0.0:4000
+url:              http://0.0.0.0:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
   name:           Vinicius Torves
   avatar:         bio-vinicius-torves.jpg
-  bio:            "#ruby #developer, #agile, coffee lover and #geek define me  =)"
+  bio:            "disciple • #ruby developer at http://www.tray.com.br  • agilist • coffee lover =)"
   email:          vinicius@torves.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        vtorves
@@ -19,16 +19,16 @@ owner:
   linkedin:       torves
   instagram:      vtorves
   lastfm:
-  tumblr:
+  tumblr:         vtorves
   pinterest:
   foursquare:
   steam:
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: vtorves071
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-66074723-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:

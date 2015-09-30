@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: About me =)
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, vinicius, torves, theme, responsive]
 modified: 7-7-2014
